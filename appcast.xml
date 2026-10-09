@@ -1,7 +1,29 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>WaveType</title>
+        <title>WaveVoice</title>
+        <item>
+            <title>0.2.43</title>
+            <pubDate>Fri, 09 Oct 2026 17:47:53 -0400</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>0.2.43</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## WaveType is now WaveVoice
+
+Same app, new name. Your dictations, voice notes, meetings, downloaded models and macOS permissions are kept.
+
+## Licenses
+
+- **15-day free trial** with every feature.
+- After that, a **one-time purchase**: plans for **1 Mac** or **3 Macs**. Activate your key in **Settings → License**.
+- When the trial ends, everything you saved stays available to view, copy and export. A license is only needed to record and transcribe.
+- Free up a Mac anytime from the app or the customer portal.
+]]></description>
+            <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v0.2.43/WaveVoice-0.2.43.dmg" length="30273175" type="application/octet-stream" sparkle:edSignature="mQ0EpA5i8kqUzU+5sk1Y2T7FE0AQZnqbfHyYOdaL+UxkPUDX0RtFl6giD1WHJIPO71vikZtNjsb2yf2eAeNAAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v0.2.43/WaveVoice45-44.delta" sparkle:deltaFrom="44" length="19516522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RNBw2pKnsTSpvMjijrPxTzjrmv320pOusdjN5LyF8uauLll/by96Cx9CCAhDn++QSpluKoSwFIXO2TbGwZfHAQ=="/>
+            </sparkle:deltas>
+        </item>
         <item>
             <title>0.2.42</title>
             <pubDate>Thu, 08 Oct 2026 22:28:58 -0400</pubDate>

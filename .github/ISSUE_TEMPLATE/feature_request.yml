@@ -1,5 +1,5 @@
 name: Suggest an improvement
-description: An idea or something you'd like WaveType to do.
+description: An idea or something you'd like WaveVoice to do.
 labels: [enhancement]
 body:
   - type: textarea

@@ -1,18 +1,24 @@
-# WaveType
+# WaveVoice
 
-Dictate in any app on your Mac: press a shortcut, speak, and the text appears at the cursor. WaveType also records voice notes and transcribes meetings — all on your Mac when you use the local models.
+*Formerly WaveType.*
 
-This repository hosts WaveType **releases** and collects **bug reports and suggestions**. The app's source code is not here.
+Dictate in any app on your Mac: press a shortcut, speak, and the text appears at the cursor. WaveVoice also records voice notes and transcribes meetings — all on your Mac when you use the local models.
+
+This repository hosts WaveVoice **releases** and collects **bug reports and suggestions**. The app's source code is not here.
 
 ## Download
 
-Download the latest `WaveType-<version>.dmg` from [Releases](https://github.com/JotaMiller/wave-type-releases/releases/latest), open it and drag WaveType to *Applications*.
+Download the latest `WaveVoice-<version>.dmg` from [Releases](https://github.com/JotaMiller/wave-type-releases/releases/latest), open it and drag WaveVoice to *Applications*.
 
 Requirements: macOS 26 or later. The downloadable models (Parakeet) require a Mac with Apple silicon.
 
 > If macOS won't open the app the first time, go to *System Settings → Privacy & Security* and click “Open Anyway”.
 
-Once installed, WaveType updates itself: it lets you know in the menu bar when a new version is available.
+Once installed, WaveVoice updates itself: it lets you know in the menu bar when a new version is available. If you have WaveType installed, it updates to WaveVoice on its own and keeps your data and permissions.
+
+## License
+
+WaveVoice includes a **15-day free trial** with every feature. After that, buy a one-time license for **1 Mac** or **3 Macs** and activate it in *Settings → License*. When the trial ends, everything you saved stays available to view, copy and export; a license is only needed to record and transcribe. You can free up a Mac from the app or from the [customer portal](https://polar.sh/jotamiller/portal).
 
 ## Report a problem or suggest something
 
