@@ -3,19 +3,27 @@
     <channel>
         <title>WaveVoice</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Fri, 09 Oct 2026 18:56:17 -0400</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Dictate with a single key
+
+- **New:** the dictation shortcut can now be a single key — 🌐 Fn, right ⌥, right ⌘ or right ⌃. Choose it in Settings → Keyboard Shortcut → “Dictate with”. Using the key together with another one (like 🌐 + →) still works as a normal combination.
+- **Improved:** dictation and voice notes stop on their own when you stop talking. Pick how many seconds of silence to wait (2–30 s) in Keyboard Shortcut and in Voice Notes.
+]]></description>
+            <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.1.0/WaveVoice-1.1.0.dmg" length="30349243" type="application/octet-stream" sparkle:edSignature="wJqS5G9mknaf8/1KnpojnYU6IY5fQuhD1yFSab9lC0DPzIdNTqGgof6199V9Qe5ScMYvU1PuCywGAlIVZoBIBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.1.0/WaveVoice47-46.delta" sparkle:deltaFrom="46" length="1890666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cLGhC9u9LgfJOrSPgqUP9xz1XPSwy/uGfH9cRqKoHdgyE0E9Q3Tfm9I5Okxm9YBy5ugxz5vTylCIVXI4K6cUCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Fri, 09 Oct 2026 18:38:02 -0400</pubDate>
             <sparkle:version>46</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## WaveVoice 1.0
-
-The first stable release of WaveVoice: dictation in any app, voice notes and meetings, on your Mac.
-
-- **New:** Add your own sounds. In Insertion & Alerts, choose "Add Sound…" and use it when starting, stopping, inserting or on errors (up to 10 seconds).
-- **Improved:** An active license stands out more: a green badge in Home and a green check in License.
-- **Improved:** With your license activated, the WaveVoice icon gets a special finish in Home and License.
-]]></description>
             <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.0.0/WaveVoice-1.0.0.dmg" length="30315553" type="application/octet-stream" sparkle:edSignature="WdVHaVzv9vAWpkX5krmQxrbsBH+2hecC92T46r7ypduDzDon5cnDPs1zOF29xv3UOGLI7dKpN6xkSIrfOhiTDg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.0.0/WaveVoice46-45.delta" sparkle:deltaFrom="45" length="1923166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3reqxzppdDUzs6EXu/4Lg/zSAcAKN+UxlxIfIoRjbrKie4ZkMonDjEkGYDnPPJ/PGtdL0KFQ5r9xLzN1+EUGDQ=="/>
@@ -30,21 +38,6 @@ The first stable release of WaveVoice: dictation in any app, voice notes and mee
             <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v0.2.43/WaveVoice-0.2.43.dmg" length="30273175" type="application/octet-stream" sparkle:edSignature="mQ0EpA5i8kqUzU+5sk1Y2T7FE0AQZnqbfHyYOdaL+UxkPUDX0RtFl6giD1WHJIPO71vikZtNjsb2yf2eAeNAAQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v0.2.43/WaveVoice45-44.delta" sparkle:deltaFrom="44" length="19516522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RNBw2pKnsTSpvMjijrPxTzjrmv320pOusdjN5LyF8uauLll/by96Cx9CCAhDn++QSpluKoSwFIXO2TbGwZfHAQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.42</title>
-            <pubDate>Thu, 08 Oct 2026 22:28:58 -0400</pubDate>
-            <sparkle:version>44</sparkle:version>
-            <sparkle:shortVersionString>0.2.42</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## All releases
-
-- In What’s New, a link to see every published release on GitHub.
-]]></description>
-            <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v0.2.42/WaveType-0.2.42.dmg" length="29924240" type="application/octet-stream" sparkle:edSignature="WORdm83+iqQJ9rwd97X6LW3q4cNKrB/yTJbn0AukFGB2QGDfWbz6t/p58Cubd9XslLGvrZG21Tb6g/3htQBGBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v0.2.42/WaveType44-43.delta" sparkle:deltaFrom="43" length="1233806" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="B/9HI2qtOJHNgTURgTMNHrIBnYSA6Zu63cqd4jPgYUM7vU2BG61dxQwIrv/EVBAasXZnNLqV4ThYTpvqcZmdCg=="/>
             </sparkle:deltas>
         </item>
     </channel>
