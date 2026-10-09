@@ -1,0 +1,11 @@
+name: Suggest an improvement
+description: An idea or something you'd like WaveType to do.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What you'd like and how it would help you.
+    validations:
+      required: true
