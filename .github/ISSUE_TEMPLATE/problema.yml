@@ -1,0 +1,37 @@
+name: Reportar un problema
+description: Algo no funciona como esperabas.
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Versión de WaveType
+      description: Configuración → General → Acerca de.
+      placeholder: "0.2.41"
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: Versión de macOS y Mac
+      placeholder: "macOS 26.1, MacBook Air M2"
+  - type: dropdown
+    id: area
+    attributes:
+      label: ¿Dónde ocurre?
+      options:
+        - Dictado
+        - Notas de voz
+        - Reuniones
+        - Limpieza del texto
+        - Modelos descargables
+        - Configuración
+        - Actualizaciones
+        - Otro
+  - type: textarea
+    id: what
+    attributes:
+      label: Qué pasó
+      description: Qué hiciste, qué esperabas y qué ocurrió. No incluyas API keys ni texto privado.
+    validations:
+      required: true
