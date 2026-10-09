@@ -3,22 +3,37 @@
     <channel>
         <title>WaveType</title>
         <item>
+            <title>0.2.42</title>
+            <pubDate>Thu, 08 Oct 2026 22:28:58 -0400</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>0.2.42</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## All releases
+
+- In What’s New, a link to see every published release on GitHub.
+]]></description>
+            <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v0.2.42/WaveType-0.2.42.dmg" length="29924240" type="application/octet-stream" sparkle:edSignature="WORdm83+iqQJ9rwd97X6LW3q4cNKrB/yTJbn0AukFGB2QGDfWbz6t/p58Cubd9XslLGvrZG21Tb6g/3htQBGBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v0.2.42/WaveType44-43.delta" sparkle:deltaFrom="43" length="1233806" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="B/9HI2qtOJHNgTURgTMNHrIBnYSA6Zu63cqd4jPgYUM7vU2BG61dxQwIrv/EVBAasXZnNLqV4ThYTpvqcZmdCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.41</title>
             <pubDate>Thu, 08 Oct 2026 22:22:03 -0400</pubDate>
             <sparkle:version>43</sparkle:version>
             <sparkle:shortVersionString>0.2.41</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## Actualizaciones automáticas
+            <description sparkle:format="markdown"><![CDATA[## Automatic updates
 
-- WaveType ahora se actualiza sola: avisa en la barra de menús cuando hay una versión nueva y la instala con un clic.
-- En Ayuda → Enviar comentarios puedes publicar tu reporte o sugerencia en GitHub.
+- WaveType now updates itself: it lets you know in the menu bar when a new version is available and installs it in one click.
+- In Help → Send Feedback you can post your report or suggestion on GitHub.
 
-## Novedades de 0.2.40
+## New in 0.2.40
 
-- Inicio renovado: tus herramientas con su atajo, los modelos en uso y acciones directas.
-- Nueva sección Notas de voz → Grabación y modelo.
-- Límite de tiempo opcional para dictados y notas.
-- La app ya no se cierra al abrir el menú durante una reunión.
+- Redesigned Home: your tools with their shortcut, the models in use and quick actions.
+- New Voice Notes → Recording & Model section.
+- Optional time limit for dictations and notes.
+- The app no longer quits when you open the menu during a meeting.
 ]]></description>
             <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v0.2.41/WaveType-0.2.41.dmg" length="29968065" type="application/octet-stream" sparkle:edSignature="txXVKcLZRVDgRyggGDjltbt9efTXNfcySBtvwut48dMaVXgW2NP+FkP1kK/iAk032PRYG8DC5Upsz2Xa9ciOBQ=="/>
         </item>
