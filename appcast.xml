@@ -2,5 +2,25 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>WaveType</title>
+        <item>
+            <title>0.2.41</title>
+            <pubDate>Thu, 08 Oct 2026 22:22:03 -0400</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>0.2.41</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Actualizaciones automáticas
+
+- WaveType ahora se actualiza sola: avisa en la barra de menús cuando hay una versión nueva y la instala con un clic.
+- En Ayuda → Enviar comentarios puedes publicar tu reporte o sugerencia en GitHub.
+
+## Novedades de 0.2.40
+
+- Inicio renovado: tus herramientas con su atajo, los modelos en uso y acciones directas.
+- Nueva sección Notas de voz → Grabación y modelo.
+- Límite de tiempo opcional para dictados y notas.
+- La app ya no se cierra al abrir el menú durante una reunión.
+]]></description>
+            <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v0.2.41/WaveType-0.2.41.dmg" length="29968065" type="application/octet-stream" sparkle:edSignature="txXVKcLZRVDgRyggGDjltbt9efTXNfcySBtvwut48dMaVXgW2NP+FkP1kK/iAk032PRYG8DC5Upsz2Xa9ciOBQ=="/>
+        </item>
     </channel>
 </rss>
