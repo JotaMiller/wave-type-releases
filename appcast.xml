@@ -3,6 +3,23 @@
     <channel>
         <title>WaveVoice</title>
         <item>
+            <title>1.3.2</title>
+            <pubDate>Sat, 10 Oct 2026 22:09:56 -0400</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Signed and verified by Apple
+
+- WaveVoice is now signed with an Apple Developer ID and notarized by Apple, so macOS opens it without security warnings.
+- Because of the new signature, macOS may ask you once more for Accessibility permission (System Settings → Privacy & Security → Accessibility).
+- These notes now also appear in What's New inside the app.
+]]></description>
+            <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.3.2/WaveVoice-1.3.2.dmg" length="32539951" type="application/octet-stream" sparkle:edSignature="plBpewm7MOqXdQjkvUQhMAgojEriMau6WrACbGBCbL16GJ8S+p1nve4lMJbYO4XbyWzf7SJF3whaqo1LyrKlDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.3.2/WaveVoice51-50.delta" sparkle:deltaFrom="50" length="27326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mxv6Cjyu7/+M8cADU7t7oEsjqBNiEMQGMduTMSYJpLwYp/1j4LCDHMElbTp2fpDa12u9cKWJgBxU+RZJ/O+QAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.1</title>
             <pubDate>Sat, 10 Oct 2026 22:04:44 -0400</pubDate>
             <sparkle:version>50</sparkle:version>
@@ -27,17 +44,6 @@
             <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.3.0/WaveVoice-1.3.0.dmg" length="32429241" type="application/octet-stream" sparkle:edSignature="zqbAzd4YdhQwlydox/epPaLTzzCLPwRrHY9mtOAFE5SpibaMeW6ZKHHSiQqHU6I8EcH9GCKYckiVUV0EQRSzAA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.3.0/WaveVoice49-48.delta" sparkle:deltaFrom="48" length="2797298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WKWA36DcD2fldJA/EKgyXH3Asd0caxjV9ZB35M5qx8vds0FWKEi2BvvZq4qZufEz4p4M8xLSyMligfSaHO1cAw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.2.0</title>
-            <pubDate>Fri, 09 Oct 2026 20:18:14 -0400</pubDate>
-            <sparkle:version>48</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.2.0/WaveVoice-1.2.0.dmg" length="32159648" type="application/octet-stream" sparkle:edSignature="XKz5Wnl0qSuVufhkTFI8yjkuWPubCkveM1Xh9iBMPdkP7sq3FJHLaBd2hkJ12u4V/5uy2MmnBvWTJo65mPrCDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.2.0/WaveVoice48-47.delta" sparkle:deltaFrom="47" length="3805522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ILgHAZKfoMRcDArMXS1+RKJ2A1WVrB1UdHdK0LjsUIjBafaNqEg+Ccqn0lfkkb6vGCBKK38YB/IcWP3bHif3AA=="/>
             </sparkle:deltas>
         </item>
     </channel>
