@@ -3,17 +3,30 @@
     <channel>
         <title>WaveVoice</title>
         <item>
+            <title>1.5.0</title>
+            <pubDate>Sun, 11 Oct 2026 20:43:21 -0400</pubDate>
+            <sparkle:version>53</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Never miss a meeting
+
+- **Record your calls with one click.** When you start a call in Zoom, Teams, Meet, FaceTime or another app, WaveVoice asks if you want to record it. If you don’t answer, the prompt goes away on its own.
+- **Stop when you hang up.** When the call ends, WaveVoice offers to stop recording, so your meeting is ready without you having to remember.
+- **A refreshed installer** that’s clearer and matches the WaveVoice look.
+
+You can turn the call prompt on or off in Settings → Meeting Recording.
+]]></description>
+            <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.5.0/WaveVoice-1.5.0.dmg" length="33213719" type="application/octet-stream" sparkle:edSignature="Hc348QzyessDMZ0TWNZaAt5tc7KgWihQSFmON305iXyl1wg4e/LZFhrP0pYugSDEprTapiH4sR025+XbSL+aCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.5.0/WaveVoice53-52.delta" sparkle:deltaFrom="52" length="2495302" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xa2XeEbXh+aT/UK56byJpgpvopAMtbJsd3H5YwIkitn1QWRX1IIs5EzNJA6N4JGbEpB651N9/sWueHxImWbNCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4.0</title>
             <pubDate>Sun, 11 Oct 2026 16:00:24 -0400</pubDate>
             <sparkle:version>52</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## More models to choose from
-
-- Connect your Anthropic account to use Claude for cleaning up your dictations and summarizing your meetings.
-- Choose which models from your account to use for transcribing, cleaning up and summarizing. The list stays up to date with new models, and we point out the one we recommend.
-- Cleanup now better recognizes drawn-out filler sounds like “uhhh” or “mmm”.
-]]></description>
             <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.4.0/WaveVoice-1.4.0.dmg" length="32634109" type="application/octet-stream" sparkle:edSignature="ya5tGv7GOVxy4nm27onlLLZz4q7woBHLAz8/1bh7ijGFYRjbxh8qAcSLKB2dwn4dbBJjINsE5k61TngmpmSIAQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.4.0/WaveVoice52-51.delta" sparkle:deltaFrom="51" length="2538978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="J0MtDaWMWeLbOsu7NnSA0CDMZyv2KBAtTfo4xY+6SpTD9TLduBgAFgA1P+Csi2qoTmVskk81pSRqu+eFpkl9CA=="/>
@@ -34,22 +47,6 @@
             <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.3.2/WaveVoice-1.3.2.dmg" length="32539951" type="application/octet-stream" sparkle:edSignature="plBpewm7MOqXdQjkvUQhMAgojEriMau6WrACbGBCbL16GJ8S+p1nve4lMJbYO4XbyWzf7SJF3whaqo1LyrKlDg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.3.2/WaveVoice51-50.delta" sparkle:deltaFrom="50" length="27326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mxv6Cjyu7/+M8cADU7t7oEsjqBNiEMQGMduTMSYJpLwYp/1j4LCDHMElbTp2fpDa12u9cKWJgBxU+RZJ/O+QAA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.3.1</title>
-            <pubDate>Sat, 10 Oct 2026 22:04:44 -0400</pubDate>
-            <sparkle:version>50</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## Signed and notarized by Apple
-
-- WaveVoice is now signed with an Apple Developer ID and notarized by Apple, so macOS opens it without security warnings.
-- After updating, macOS may ask you to grant Accessibility permission again (System Settings → Privacy & Security → Accessibility). This is a one-time step caused by the new signature.
-]]></description>
-            <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.3.1/WaveVoice-1.3.1.dmg" length="32535355" type="application/octet-stream" sparkle:edSignature="80luJtwaTM+f6tVSAhpacxd/waV2FJXP5ig+RT54V8cUftdoq6vCHNKH9szhLHqa3ycwWZwxWFQpSThJMlILCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.3.1/WaveVoice50-49.delta" sparkle:deltaFrom="49" length="41118" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xOKk82AUMidquPPGkb6I7ydTkLWx6vMd5f3i7JHCs2X59HRUSejpglcGFXOA3dMFJ7LrpKyjuO249GzudX/lDA=="/>
             </sparkle:deltas>
         </item>
     </channel>
