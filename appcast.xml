@@ -3,15 +3,27 @@
     <channel>
         <title>WaveVoice</title>
         <item>
+            <title>1.6.2</title>
+            <pubDate>Tue, 13 Oct 2026 10:36:07 -0400</pubDate>
+            <sparkle:version>56</sparkle:version>
+            <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Sound better on your calls
+
+- When you record a meeting without headphones, others hear your voice at its normal volume, and the transcript still keeps what you say apart from what they say.
+- Clearer messages when your Mac needs more space to prepare the transcription model.
+]]></description>
+            <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.6.2/WaveVoice-1.6.2.dmg" length="36449708" type="application/octet-stream" sparkle:edSignature="r8tCFDm8BfghHS0/FijeZn6jo6HIoSe5rzlqf8btxy1J4th7gwkwBuqwz7dtZPvxZKpRstHXMmKY75wHIiWFDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.6.2/WaveVoice56-55.delta" sparkle:deltaFrom="55" length="2115594" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="e/hVVnyBxexVHyd4roNpwG3yqqdmh4OabpvdMtPB1JCL+3Uk/w5+eiZ+2roU0WivLCeB888k1cEy1m1RWDMFAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6.1</title>
             <pubDate>Mon, 12 Oct 2026 09:15:03 -0400</pubDate>
             <sparkle:version>55</sparkle:version>
             <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## Your notes at a glance
-
-- The voice notes widget now shows your latest notes in full, with larger text so you can read them at a glance. Plus, there’s a new large size.
-]]></description>
             <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.6.1/WaveVoice-1.6.1.dmg" length="36426360" type="application/octet-stream" sparkle:edSignature="PGpdFLYJwWSunjAqYnOS3vghr2JuN4SvHopZ0a1YeDdOEy9597n4linXNDC5f6Ln4qxHhDI6noZO0rASYohQAg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.6.1/WaveVoice55-54.delta" sparkle:deltaFrom="54" length="3242090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="01uKrM2BP+JQRuK4l4z6r9bCLqdYHrj1P0PcZzvCVnxGZDzsHmAmLKI0NqMOcYYmhNXPrivzXCIjt3uRwamMCg=="/>
@@ -26,17 +38,6 @@
             <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.6.0/WaveVoice-1.6.0.dmg" length="33252161" type="application/octet-stream" sparkle:edSignature="wccSdMKoVmDlHyTk1NJJ74lVYJ5PXkfwOXsA7PQjNm4uv1/k07SHiJXf0qHa1aPCshk5LYbdBmS8mzl/ONdJCw=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.6.0/WaveVoice54-53.delta" sparkle:deltaFrom="53" length="2226322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yiCWl7+9TNcQ/3d+GWKK+osUj8C7y9Fi2sQZnqSMjG2pP0pOQnV+p49olT7+bGIfmYgLuQw4diUTGLemRHyVBA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.5.0</title>
-            <pubDate>Sun, 11 Oct 2026 20:43:21 -0400</pubDate>
-            <sparkle:version>53</sparkle:version>
-            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.5.0/WaveVoice-1.5.0.dmg" length="33213719" type="application/octet-stream" sparkle:edSignature="Hc348QzyessDMZ0TWNZaAt5tc7KgWihQSFmON305iXyl1wg4e/LZFhrP0pYugSDEprTapiH4sR025+XbSL+aCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/JotaMiller/wave-type-releases/releases/download/v1.5.0/WaveVoice53-52.delta" sparkle:deltaFrom="52" length="2495302" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xa2XeEbXh+aT/UK56byJpgpvopAMtbJsd3H5YwIkitn1QWRX1IIs5EzNJA6N4JGbEpB651N9/sWueHxImWbNCg=="/>
             </sparkle:deltas>
         </item>
     </channel>
